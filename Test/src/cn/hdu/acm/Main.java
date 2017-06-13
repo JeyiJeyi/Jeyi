@@ -59,6 +59,8 @@ public class Main {
 
 				}
 
+				
+				
 				if (n == 0) {
 					System.out.print(a[i]);
 				} else {
